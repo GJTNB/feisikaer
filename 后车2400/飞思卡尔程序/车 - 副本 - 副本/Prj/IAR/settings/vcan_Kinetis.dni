@@ -1,0 +1,58 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1575697736
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=1
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+CStepIntDis=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[CodeCoverage]
+Enabled=_ 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\94827\Desktop\5月18高骏涛在任锦绣的帮助下ok\飞思卡尔程序\车 - 副本 - 副本\App\main.c" ""
+A1=_ "C:\Users\94827\Desktop\车 - 副本 - 副本\Chip\src\IAR\system_MK60DZ10.c" ""
+A2=_ "C:\Users\94827\Desktop\车 - 副本 - 副本\Chip\src\MK60_SysTick.c" ""
+A3=_ "C:\Users\94827\Desktop\车 - 副本 - 副本\USER\src\bsp_oled.c" ""
+A4=_ "E:\BaiduNetdiskDownload\car\Chip\src\IAR\system_MK60DZ10.c" ""
+A5=_ "F:\征途4\car 6.4\car\Chip\src\IAR\system_MK60DZ10.c" ""
+A6=_ "F:\征途4\car 6.4\car\Chip\src\MK60_wdog.c" ""
+A7=_ "F:\征途4\car 6.4\car\USER\src\isr.c" ""
+A8=_ "F:\征途4\car 6.5\car\Chip\src\IAR\system_MK60DZ10.c" ""
+A9=_ "F:\征途4\car 6.6\car\Chip\src\IAR\system_MK60DZ10.c" ""
+Count=10
+SuppressDialog=1

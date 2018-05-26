@@ -1,0 +1,31 @@
+int01   19
+int02   4000
+int03   1558
+int04   3200
+int05   0
+int06   3000
+int07   0
+int08   60
+int09   7825
+int10   600
+int11   0
+int12   0
+
+
+float01      400
+float02      1000
+float03      100
+float04      100
+float05      40
+float06      40
+float07      20
+float08      90
+float09      1200
+float10      100
+float11      300
+float12      0
+
+Ç°³µ
+
+9225
+6200
